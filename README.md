@@ -10,7 +10,7 @@ This project is a **Python-based task automation script** that extracts email ad
   - ✅ Word Documents (`.docx`)
   - ✅ PDF Files (`.pdf`)
 - Uses Regular Expressions (`re`) to match email patterns
-- Clean and well-organized script structure
+- Clean and well-organized script structure 
 - Supports batch processing of multiple files in a folder
 
 ## 🛠️ Technologies Used
