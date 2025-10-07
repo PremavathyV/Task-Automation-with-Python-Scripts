@@ -12,6 +12,7 @@ This project is a **Python-based task automation script** that extracts email ad
 - Uses Regular Expressions (`re`) to match email patterns
 - Clean and well-organized script structure 
 - Supports batch processing of multiple files in a folder
+  
 
 ## 🛠️ Technologies Used
 - 🐍 Python 3
